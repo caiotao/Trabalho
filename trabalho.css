@@ -1,0 +1,54 @@
+table {
+    width: 50%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+
+  th, td {
+    border: 1px solid #444;
+    padding: 10px;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+
+  caption {
+    margin-bottom: 10px;
+    font-weight: bold;
+    font-size: 1.2em;
+  }
+  #gamer
+  {
+    width: 200px;
+  }
+  link
+  {
+color: red;
+size: 200px;
+  }
+  body
+  {
+    background-color: aquamarine;
+  }
+  h1
+  {
+    color: brown;
+    text-align: center
+    ;
+  }
+  p{
+    font-size: 50px;
+  }
+  ul{
+    
+  }
+  img
+  {
+    border-style: outset;
+    border-color: black;
+    border: #444;
+    border-radius:30px ;
+  }
